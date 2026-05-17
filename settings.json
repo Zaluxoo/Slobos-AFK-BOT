@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ZaluxooYT.aternos.me",
+    "ip": "ZaluxooYT.aternos.me:59877",
     "port": 59877,
     "version":false,
     "fakeVersion": "1.26"
